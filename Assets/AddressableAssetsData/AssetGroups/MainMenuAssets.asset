@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: MainMenuAssets
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: MainMenuAssets
+  m_GUID: 95759a5c70dcf0342983d10f725f1473
+  m_SerializeEntries:
+  - m_GUID: 0c18d55fa36605c49b9a6a1ac034658c
+    m_Address: LevelsGroup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c0b8a58049f8d7429384b5da79a4ab4
+    m_Address: LevelButton
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a8c084b8af250c48994b26bb5eb0900
+    m_Address: Swipe
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab6cba10132b7f944b487177b3d423c7
+    m_Address: EnglishFlag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c86cf50fefdc5444d8e00ebd3bd98123
+    m_Address: Calimba - E's Jammy Jams (3)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dae8f689f73951f4eaa9a38eff5f6d3f
+    m_Address: RussianFlag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ac7e3e168a4996d479982429680e87a6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5ec6f9773f2cadc44a4d83046e65a1fb, type: 2}
+    - {fileID: 11400000, guid: 322abdd5b496a394e9a8b73ecc1772f1, type: 2}

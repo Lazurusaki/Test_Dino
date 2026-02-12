@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GameplayMusic
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: GameplayMusic
+  m_GUID: fa6660897d7652847922cfaa60b7bc1a
+  m_SerializeEntries:
+  - m_GUID: 7b1f1b4dbf59d6844a6706f1f86ef07b
+    m_Address: Cuckoo Clock - Quincas Moreira
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a34ebaac57289e8458d5cca4de606e8a
+    m_Address: Happy Mistake - RKVC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0f15b5df1cc98e4ca9b7d1face59137
+    m_Address: Fantasyland - Quincas Moreira
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b71463691a43fa046adaedcfe07ba513
+    m_Address: Ponies and Balloons - The Green Orbs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd7353d0ba0435c49911e1a219cede5f
+    m_Address: Bunny Hop - Quincas Moreira
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ac7e3e168a4996d479982429680e87a6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f5881bf86b959d54fba4503759bcd37b, type: 2}
+    - {fileID: 11400000, guid: 116ba56caf67cf84ebd8c6940eb49764, type: 2}

@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5263f4cbbc14e31ae2f31663f9bb3bb, type: 3}
+  m_Name: RussianAudio
+  m_EditorClassIdentifier: Assembly-CSharp::_Project.Scripts.Configs.Localization.LocalizationAudioTableConfig
+  _entries:
+  - <Key>k__BackingField: 11
+    <Value>k__BackingField:
+      m_AssetGUID: ccc266b66d2e60147872f78821030d6e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <Key>k__BackingField: 14
+    <Value>k__BackingField:
+      m_AssetGUID: 7abd90bbb6d095641b60ab9f70e865cd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <Key>k__BackingField: 16
+    <Value>k__BackingField:
+      m_AssetGUID: cbdfd1b7830e76f41854d2bdd652f1bb
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <Key>k__BackingField: 13
+    <Value>k__BackingField:
+      m_AssetGUID: 3e4915383c171fc4883829b4bd00ff56
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <Key>k__BackingField: 3
+    <Value>k__BackingField:
+      m_AssetGUID: 9b8cbea864b4be345b6319cd36695a37
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <Key>k__BackingField: 2
+    <Value>k__BackingField:
+      m_AssetGUID: ac78d098bbbe479499d64a1a63921f15
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <Key>k__BackingField: 17
+    <Value>k__BackingField:
+      m_AssetGUID: 98ea7cda943448a4e99e9d60e5888284
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <Key>k__BackingField: 10
+    <Value>k__BackingField:
+      m_AssetGUID: de034c0e204567842909aa45d1ff4c29
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <Key>k__BackingField: 8
+    <Value>k__BackingField:
+      m_AssetGUID: ccc266b66d2e60147872f78821030d6e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <Key>k__BackingField: 8
+    <Value>k__BackingField:
+      m_AssetGUID: 48998e5af9bbaa54b969adbd6ffa4d0f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <Key>k__BackingField: 7
+    <Value>k__BackingField:
+      m_AssetGUID: df09e45a983a7f241a125af4e205b6c8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <Key>k__BackingField: 5
+    <Value>k__BackingField:
+      m_AssetGUID: d5b7e7f4ac1ab984ea7233050828da85
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <Key>k__BackingField: 0
+    <Value>k__BackingField:
+      m_AssetGUID: ccc266b66d2e60147872f78821030d6e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <Key>k__BackingField: 0
+    <Value>k__BackingField:
+      m_AssetGUID: ccc266b66d2e60147872f78821030d6e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <Key>k__BackingField: 15
+    <Value>k__BackingField:
+      m_AssetGUID: ccc266b66d2e60147872f78821030d6e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0

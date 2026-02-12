@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 126c458fdfbe8324c818a67675ba7e0c, type: 3}
+  m_Name: Level_01_Ptyr
+  m_EditorClassIdentifier: Assembly-CSharp::LevelConfig
+  <LevelNameKey>k__BackingField: 12
+  <LevelAudioKeyKey>k__BackingField: 11
+  <Icon>k__BackingField:
+    m_AssetGUID: 95b1069da5669204892232321c07e72f
+    m_SubObjectName: 
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  <PuzzlePrefab>k__BackingField:
+    m_AssetGUID: eac52e2c881119e4ba29e518a7628a7c
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  <TextColor>k__BackingField: {r: 1, g: 0, b: 0.47450984, a: 1}
+  <Voice>k__BackingField:
+    m_AssetGUID: f4fe9e10ec249e0488246c1b32c4c611
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  <IsLocked>k__BackingField: 0

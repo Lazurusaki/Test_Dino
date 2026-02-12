@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Level_06_Anky
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Level_06_Anky
+  m_GUID: 367beff4ea17a1b41acd745cc47d21af
+  m_SerializeEntries:
+  - m_GUID: 29d62d98cf9148f4dab194e09afee96d
+    m_Address: "\u0435\u043D_\u0430\u043D\u043A\u043E\u043B\u043E\u0437\u0430\u0432\u0440"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fed0fb37d9180e419210bb2a3540369
+    m_Address: Level_06_Anky
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d7608ffaea0bb8449188effadd9149d
+    m_Address: dino_anki
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac78d098bbbe479499d64a1a63921f15
+    m_Address: "\u0410\u043D\u043A\u0430\u043B\u043E\u0437\u0430\u0432\u0440"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ac7e3e168a4996d479982429680e87a6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 92de90c4c2c3e9543831a1b141a62376, type: 2}
+    - {fileID: 11400000, guid: c7e0e91cfccb1ef409f7cb072001a8ae, type: 2}

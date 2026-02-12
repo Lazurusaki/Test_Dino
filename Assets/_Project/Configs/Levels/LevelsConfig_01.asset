@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 611a2b99fe6e4a4c88eed7e838fb35f7, type: 3}
+  m_Name: LevelsConfig_01
+  m_EditorClassIdentifier: Assembly-CSharp::_Project.Scripts.Configs.Gameplay.Levels.LevelsConfig
+  <Levels>k__BackingField:
+  - <LevelConfig>k__BackingField: {fileID: 11400000, guid: 5d81a76aefaa1fe4fb13f7bc8bb0e561,
+      type: 2}
+    <IsLocked>k__BackingField: 0
+  - <LevelConfig>k__BackingField: {fileID: 11400000, guid: 12b98ec01ecf79a40a7ca3304438c208,
+      type: 2}
+    <IsLocked>k__BackingField: 0
+  - <LevelConfig>k__BackingField: {fileID: 11400000, guid: 9ff8b66c20234e6468d25cb52f6810a0,
+      type: 2}
+    <IsLocked>k__BackingField: 0
+  - <LevelConfig>k__BackingField: {fileID: 11400000, guid: cad843003e2a1f540ad76b04bcfa1d0e,
+      type: 2}
+    <IsLocked>k__BackingField: 1
+  - <LevelConfig>k__BackingField: {fileID: 11400000, guid: 6876dfb482ebdab458d15b15de3bf948,
+      type: 2}
+    <IsLocked>k__BackingField: 1
+  - <LevelConfig>k__BackingField: {fileID: 11400000, guid: b40dd375ba882df49a2ced697ffdf562,
+      type: 2}
+    <IsLocked>k__BackingField: 1
+  - <LevelConfig>k__BackingField: {fileID: 11400000, guid: 820e39fb5b2895f4fb497a17d188e91c,
+      type: 2}
+    <IsLocked>k__BackingField: 1

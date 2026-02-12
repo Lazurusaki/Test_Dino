@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Level_05_Brach
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Level_05_Brach
+  m_GUID: 056e9d0cd32ca0e48b1aa045f8ff0527
+  m_SerializeEntries:
+  - m_GUID: 43a1867c836c3cc438229a0a9a311807
+    m_Address: "\u0435\u043D_\u0431\u0440\u0430\u0445\u0438\u043E\u0437\u0430\u0432\u0440"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70eb0dd633d02de4d85300a4c0b32837
+    m_Address: Level_05_Brach
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 724c4b31d39f8d644a7510cd14f12d5a
+    m_Address: dino_braxo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b8cbea864b4be345b6319cd36695a37
+    m_Address: "\u0411\u0440\u0430\u0445\u0438\u043E\u0437\u0430\u0432\u0440"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ac7e3e168a4996d479982429680e87a6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 16d779041aeeeb64590ba5b2db252b16, type: 2}
+    - {fileID: 11400000, guid: fdee200e2916b2543947a502db280bd7, type: 2}

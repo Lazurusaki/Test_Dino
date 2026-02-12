@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 705011f71d9d4138a3d336cc33cac3a2, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: Assembly-CSharp::_Project.Scripts.Configs.Localization.LanguageConfig
+  <Language>k__BackingField: 1
+  <Icon>k__BackingField:
+    m_AssetGUID: ab6cba10132b7f944b487177b3d423c7
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  <TextTable>k__BackingField: {fileID: 11400000, guid: d3301a916858c284aacd6601d6d34083,
+    type: 2}
+  <AudioTable>k__BackingField: {fileID: 11400000, guid: b33ed998b37b5394a9f4f87454dba883,
+    type: 2}

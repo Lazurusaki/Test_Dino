@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 126c458fdfbe8324c818a67675ba7e0c, type: 3}
+  m_Name: Level_02_Stego
+  m_EditorClassIdentifier: Assembly-CSharp::LevelConfig
+  <ID>k__BackingField: 1
+  <LevelNameKey>k__BackingField: 15
+  <LevelAudioKeyKey>k__BackingField: 14
+  <Icon>k__BackingField:
+    m_AssetGUID: 8c6f62a3d545d884d82e483278303159
+    m_SubObjectName: 
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  <PuzzlePrefab>k__BackingField:
+    m_AssetGUID: e381b6dc0ef9f4b47b5efdd5b19e76fa
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  <TextColor>k__BackingField: {r: 1, g: 0.23137257, b: 0, a: 1}
+  <Voice>k__BackingField:
+    m_AssetGUID: d8894bda3182d5a4c997bfb146cb5785
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0

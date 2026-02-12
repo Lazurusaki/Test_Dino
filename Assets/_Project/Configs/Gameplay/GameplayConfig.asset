@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5c2f8be9e1a4f15abf36c35dbf0a92a, type: 3}
+  m_Name: GameplayConfig
+  m_EditorClassIdentifier: Assembly-CSharp::_Project.Scripts.Configs.Gameplay.GameplayConfig
+  <StartGameSound>k__BackingField:
+    m_AssetGUID: 7a3c3db631e872444abbc055de6cde2e
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  <WinSound>k__BackingField:
+    m_AssetGUID: 437ba3dd0f609d546b08e72788ab70c9
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  <LooseSound>k__BackingField:
+    m_AssetGUID: 7e147f17dfe9db241a913ddf86650056
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  <CheersSound>k__BackingField:
+    m_AssetGUID: 471b306d0935eb541ae6cf5f944767da
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  <BalloonHitSound>k__BackingField:
+    m_AssetGUID: 12de0b0af9e1f9847acac814143b3a01
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  <GameplayMusicList>k__BackingField:
+  - m_AssetGUID: dd7353d0ba0435c49911e1a219cede5f
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 7b1f1b4dbf59d6844a6706f1f86ef07b
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: b0f15b5df1cc98e4ca9b7d1face59137
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: a34ebaac57289e8458d5cca4de606e8a
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: b71463691a43fa046adaedcfe07ba513
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  <WinEffect>k__BackingField:
+    m_AssetGUID: 567fdadde2c84724aa6d51dfc70b7ef8
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  <BalloonHitEffect>k__BackingField:
+    m_AssetGUID: 07a1f11b22eedf7468311d5c569c4f62
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
